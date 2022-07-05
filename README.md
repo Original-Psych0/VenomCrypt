@@ -1,4 +1,5 @@
 <h1 align="center">VenomCrypt</h1>
+<h2 align="center">VenomCrypt has been transferred(To personal account) and It's now called <a href="https://github.com/I2rys/AESDir">AESDir</a></h2>
 <h4 align="center">Local & powerful folder E2E encryptor & decryptor</h4>
 <p align="center">
 	<a href="https://github.com/Original-Psych0/VenomCrypt/blob/mVenomCryptn/LICENSE"><img src="https://img.shields.io/github/license/Original-Psych0/VenomCrypt?style=flat-square"></img></a>
